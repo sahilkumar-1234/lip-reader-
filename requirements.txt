@@ -81,16 +81,3 @@ zipp==3.19.2
 
 
 
-# Core packages
-streamlit
-opencv-python-headless
-numpy
-pandas
-imageio
-setuptools
-wheel
-
-# Optional visualization and formatting
-altair
-matplotlib
-
