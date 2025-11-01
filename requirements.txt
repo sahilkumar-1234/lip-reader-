@@ -10,3 +10,7 @@ wheel
 # Optional visualization and formatting
 altair
 matplotlib
+
+
+tensorflow==2.18.0
+keras
